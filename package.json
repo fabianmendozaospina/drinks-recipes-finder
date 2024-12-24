@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/fabianmendozaospina/drinks-recipes-finder",
+  "homepage": "https://fabianmendozaospina.github.io/drinks-recipes-finder/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
