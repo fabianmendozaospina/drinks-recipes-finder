@@ -6,7 +6,7 @@ const FavoritesPage = lazy(() => import('./views/FavoritesPage'))
 
 export default function AppRouter() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/drinks-recipes-finder/'>
         <Routes>
            <Route element={<Layout />}>
               <Route path='/' element={
